@@ -19,5 +19,8 @@ for entry in entries:
 payload = json.dumps(entries, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
 template = (root / 'index.html.in').read_text()
 assert template.count('__GRAMMAR_DATA__') == 1
-(root / 'index.html').write_text(template.replace('__GRAMMAR_DATA__', payload))
+script = (root / 'app.js').read_text().replace('</script', '<\\/script')
+mobile_css = (root / 'mobile.css').read_text()
+result = template.replace('__GRAMMAR_DATA__', payload).replace('__APP_SCRIPT__', script).replace('__MOBILE_CSS__', mobile_css)
+(root / 'index.html').write_text(result)
 print(f'Built {len(entries)} entries: {root / "index.html"}')

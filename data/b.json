@@ -1,0 +1,794 @@
+[
+  {
+    "id": "degree-01",
+    "category": "degree",
+    "pattern": "極まる／極まりない",
+    "meaning": "极其……；……到了极点",
+    "connection": "な形容词词干＋極まる／極まりない；い形容词＋こと＋極まりない。な形容词也可用「なこと／であること＋極まりない」。",
+    "nuance": "书面语，常与「危険・失礼・不愉快」等负面评价搭配。这两种形式在此意思相同，不能把「極まりない」理解为程度不高。",
+    "example": "個人情報を誰でも見られる場所に置くのは、無責任極まりない。",
+    "translation": "把个人信息放在谁都能看到的地方，实在是极不负责任。",
+    "cue": "极端评价，两式同义",
+    "contrast": "「の極み」接名词，如「疲労の極み」；本项常直接接な形容词词干，如「危険極まりない」。",
+    "related": [
+      "degree-02",
+      "degree-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：極まる／極まりない",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-kiwamaru/"
+      }
+    ]
+  },
+  {
+    "id": "degree-02",
+    "category": "degree",
+    "pattern": "の極み",
+    "meaning": "……之极；……的极致",
+    "connection": "名词＋の極み（だ／に達する）",
+    "nuance": "表示状态或感受到达极点，语气郑重。常见「感激・疲労・贅沢・痛恨の極み」等搭配，不宜套用所有名词。",
+    "example": "長い準備が実を結び、この舞台に立てたことは感激の極みです。",
+    "translation": "长期的准备终于有了成果，能够站上这个舞台，我感动至极。",
+    "cue": "名词＋极致",
+    "contrast": "「の至り」更常用于郑重致谢、自谦等固定表达；「の極み」也能描述疲劳、奢华等状态。",
+    "related": [
+      "degree-01",
+      "degree-03"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：の極み",
+        "url": "https://nihongokyoshi-net.com/2019/07/05/jlptn1-grammar-nokiwami/"
+      }
+    ]
+  },
+  {
+    "id": "degree-03",
+    "category": "degree",
+    "pattern": "の至り",
+    "meaning": "无比……；……之至",
+    "connection": "特定名词＋の至り（だ）",
+    "nuance": "非常郑重，常见「光栄・感激・恐縮・不徳の至り」。「若気の至り」是固定说法，指年轻气盛导致的过失。",
+    "example": "尊敬する先生から推薦していただき、光栄の至りです。",
+    "translation": "能够得到我所尊敬的老师的推荐，我深感荣幸。",
+    "cue": "正式场合：光栄の至り",
+    "contrast": "「の極み」较适合状态的极限；「の至り」常是说话人在正式场合表明心情的惯用表达。",
+    "related": [
+      "degree-02",
+      "degree-04"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：の至り",
+        "url": "https://nihongokyoshi-net.com/2019/06/18/jlptn1-grammar-itari/"
+      }
+    ]
+  },
+  {
+    "id": "degree-04",
+    "category": "degree",
+    "pattern": "限りだ",
+    "meaning": "无比……；真是……极了",
+    "connection": "表达感情的い形容词＋限りだ；な形容词＋な限りだ；感情名词＋の限りだ",
+    "nuance": "着重表达说话人此刻强烈的感受，常见「うれしい・寂しい・残念な限りだ」。本项不是「只要……」的条件用法。",
+    "example": "卒業した学生たちが各地で活躍していて、うれしい限りです。",
+    "translation": "毕业的学生们在各地大显身手，我由衷地高兴。",
+    "cue": "心情满到极限",
+    "contrast": "「極まりない」常用来评价事物的极端性质；「限りだ」更直接抒发「我真是非常……」的感受。",
+    "related": [
+      "degree-01",
+      "degree-05"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：限りだ",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-kagirida/"
+      }
+    ]
+  },
+  {
+    "id": "degree-05",
+    "category": "degree",
+    "pattern": "といったらない",
+    "meaning": "别提有多……；……得无法形容",
+    "connection": "い形容词／な形容词词干／名词＋といったらない；也可接表示感受的动词，如「腹が立つといったらない」。常用「形容词的さ形＋といったらない」。",
+    "nuance": "带强烈感叹，可用于正面或负面的感受。口语也说「ったらない」；「といったらありゃしない」常带更强的不满。",
+    "example": "山頂から見た星空の美しさといったらない。",
+    "translation": "从山顶看到的星空，别提有多美了。",
+    "cue": "美しさ＋说不尽",
+    "contrast": "「といえば」（衔接项）通常引出话题或联想；「といったらない」整体表示程度极高，不需要再列举话题。",
+    "related": [
+      "degree-04",
+      "degree-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：といったらない等",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-toittaraarihashinai/"
+      }
+    ]
+  },
+  {
+    "id": "degree-06",
+    "category": "degree",
+    "pattern": "てやまない",
+    "meaning": "始终……；衷心地……",
+    "connection": "动词て形＋やまない（敬体：やみません）",
+    "nuance": "表示真诚、强烈而持续的心情，主要接「願う・祈る・愛する・尊敬する」等。不是一般动作不停进行的表达。",
+    "example": "子どもたちが安心して学べる社会になることを願ってやみません。",
+    "translation": "我衷心期盼社会能让孩子们安心学习。",
+    "cue": "愿望与敬爱，永不停息",
+    "contrast": "「続ける」（基础项）可表示普通动作持续；「てやまない」主要强调心愿、敬爱等情感。",
+    "related": [
+      "degree-07",
+      "emotion-01"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：てやまない",
+        "url": "https://nihongokyoshi-net.com/2019/06/19/jlptn1-grammar-teyamanai/"
+      }
+    ]
+  },
+  {
+    "id": "degree-07",
+    "category": "degree",
+    "pattern": "に堪えない（感情）",
+    "meaning": "不胜……；感到无比……",
+    "connection": "感情名词＋に堪えない，如「感謝・感激・喜び・遺憾」",
+    "nuance": "郑重地表示情感强烈到难以抑制；敬体常用「に堪えません」。这里不是「没有……感情」，而是感情非常强烈。",
+    "example": "見知らぬ私を助けてくださった皆様のご親切に、感謝の念に堪えません。",
+    "translation": "各位热心帮助了素不相识的我，对这份善意，我不胜感激。",
+    "cue": "感情太满，承受不住",
+    "contrast": "「見るに堪えない」表示难以忍受、无法看下去；「感謝に堪えない」则是感激之情非常强烈。",
+    "related": [
+      "degree-08",
+      "emotion-01"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：に堪える／に堪えない",
+        "url": "https://www.nihongokyoshi-net.com/2019/07/15/jlptn1-grammar-taeru-taenai/"
+      }
+    ]
+  },
+  {
+    "id": "degree-08",
+    "category": "degree",
+    "pattern": "に堪えない（不值得）",
+    "meaning": "不堪……；无法忍受；不值得……",
+    "connection": "动词辞书形＋に堪えない；部分动作名词＋に堪えない，如「鑑賞に堪えない」",
+    "nuance": "常用「見る・聞く・読むに堪えない」，表示内容恶劣、粗糙或令人难受，已无法忍受；不只是中性地说价值较低。",
+    "example": "相手を傷つける言葉ばかりの討論は、聞くに堪えなかった。",
+    "translation": "那场讨论尽是伤害对方的话，实在让人听不下去。",
+    "cue": "难看、难听到受不了",
+    "contrast": "「に足りない」侧重达不到价值或必要性的标准；「に堪えない」常带强烈的不快或痛苦感。",
+    "related": [
+      "degree-07",
+      "judgment-09",
+      "emotion-08"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：に堪える／に堪えない",
+        "url": "https://www.nihongokyoshi-net.com/2019/07/15/jlptn1-grammar-taeru-taenai/"
+      }
+    ]
+  },
+  {
+    "id": "degree-09",
+    "category": "degree",
+    "pattern": "にもほどがある",
+    "meaning": "……也该有个限度；太……了",
+    "connection": "动词辞书形／ない形＋にもほどがある；い形容词／な形容词词干／名词＋にもほどがある",
+    "nuance": "批评行为或状态超过可接受的界限，常见「冗談・失礼・無責任にもほどがある」。通常不是赞美过人的程度。",
+    "example": "約束の時間に二時間も遅れるなんて、無責任にもほどがある。",
+    "translation": "竟然比约定时间晚了两个小时，不负责任也该有个限度。",
+    "cue": "过界了，带责备",
+    "contrast": "「極まりない」断言程度极高；「にもほどがある」额外强调超出应有分寸，常直接责备对方。",
+    "related": [
+      "degree-01",
+      "evaluation-01"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：にもほどがある",
+        "url": "https://nihongokyoshi-net.com/2019/11/21/jlptn1-grammar-nimohodogaaru/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-01",
+    "category": "judgment",
+    "pattern": "に違いない〔N2衔接〕",
+    "meaning": "一定……；肯定……",
+    "connection": "动词／い形容词普通形＋に違いない；名词／な形容词词干＋（である）に違いない",
+    "nuance": "根据迹象或理由作有把握的推断，仍是说话人的判断。本图作为 N2 衔接复习项收录；部分教材也列入 N3。",
+    "example": "玄関に濡れた傘がある。誰かがさっき帰ってきたに違いない。",
+    "translation": "门口有一把湿雨伞，一定是有人刚刚回来了。",
+    "cue": "有迹象，因此确信",
+    "contrast": "「に相違ない」更郑重、更书面；「に決まっている」更口语，常显得主观、强硬。",
+    "related": [
+      "judgment-02",
+      "judgment-03"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：に違いない",
+        "url": "https://nihongokyoshi-net.com/?p=4110"
+      }
+    ]
+  },
+  {
+    "id": "judgment-02",
+    "category": "judgment",
+    "pattern": "に相違ない",
+    "meaning": "确实……；必定……无疑",
+    "connection": "动词／い形容词普通形＋に相違ない；名词／な形容词词干＋（である）に相違ない",
+    "nuance": "「に違いない」的郑重、书面表达，也常用来正式确认事实。教材分级有差异，本图将其与 N1 判断表达一起比较。",
+    "example": "筆跡と署名から見て、この手紙は本人が書いたものに相違ない。",
+    "translation": "从笔迹和签名来看，这封信无疑是本人写的。",
+    "cue": "正式确认：没有差错",
+    "contrast": "与「に違いない」核心意义接近，区别主要在文体；不必把它理解为客观上绝对不会错的证据。",
+    "related": [
+      "judgment-01",
+      "judgment-03"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：に相違ない",
+        "url": "https://mainichi-nonbiri.com/grammar/n2-nisouinai/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-03",
+    "category": "judgment",
+    "pattern": "に決まっている〔N2衔接〕",
+    "meaning": "肯定……；当然……",
+    "connection": "普通形＋に決まっている；名词、な形容词的现在肯定形去掉「だ」",
+    "nuance": "说话人强烈认定如此，带口语色彩，可省为「に決まってる」。本图作为 N2 衔接复习项收录；部分教材列入 N3。",
+    "example": "そんな大きな机、一人では運べないに決まっているよ。",
+    "translation": "那么大的桌子，一个人肯定搬不动啊。",
+    "cue": "主观拍板：肯定如此",
+    "contrast": "「に違いない」常呈现从线索推理的感觉；本项更突出强烈确信，正式场合容易显得武断。",
+    "related": [
+      "judgment-01",
+      "judgment-02"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：に決まっている",
+        "url": "https://nihongokyoshi-net.com/2019/01/15/jlptn3-grammar-nikimatteiru/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-04",
+    "category": "judgment",
+    "pattern": "までもない",
+    "meaning": "不必特意……；用不着……",
+    "connection": "动词辞书形＋までもない；中止形为「までもなく」",
+    "nuance": "因为事情明显、简单或程度较轻，没必要做到那一步。「言うまでもない」表示不言而喻。",
+    "example": "駅はこの角を曲がれば見えるので、地図を開くまでもない。",
+    "translation": "转过这个路口就能看到车站，用不着打开地图。",
+    "cue": "无需做到那一步",
+    "contrast": "「には当たらない」常否定惊讶、悲观、责备等反应的必要性；「までもない」适用动作较广。",
+    "related": [
+      "judgment-05",
+      "judgment-06"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：までもない",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-mademonai/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-05",
+    "category": "judgment",
+    "pattern": "には当たらない",
+    "meaning": "不值得……；没有必要……",
+    "connection": "动词辞书形／动作名词＋に（は）当たらない",
+    "nuance": "常接「驚く・悲観する・非難する」等，表示事情还不至于引起这种反应。此处不讲分类意义的「違反には当たらない」。",
+    "example": "初めての発表で少し言い間違えたくらいなら、責めるには当たらない。",
+    "translation": "第一次发表时只是稍微说错了几处，没有必要责备。",
+    "cue": "事情未到该反应的程度",
+    "contrast": "「までもない」多说某行动无需特意去做；本项多用于评价一种情绪或反应是否过度。",
+    "related": [
+      "judgment-04",
+      "judgment-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：には当たらない",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-nihaataranai/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-06",
+    "category": "judgment",
+    "pattern": "べくもない",
+    "meaning": "根本无法……；不可能……",
+    "connection": "动词辞书形＋べくもない；する也可用「すべくもない」",
+    "nuance": "书面语，强调从条件或处境来看根本不可能，常用「知る・望む・想像するべくもない」。「疑うべくもない」意为无可怀疑。",
+    "example": "記録が何も残っていない以上、当時の詳しい事情は知るべくもない。",
+    "translation": "既然没有留下任何记录，当时的详细情况就无从得知。",
+    "cue": "连可能性也没有",
+    "contrast": "「までもない」是没有必要；「べくもない」通常是没有可能。「疑うべくもない」是无可置疑的惯用搭配。",
+    "related": [
+      "judgment-04",
+      "judgment-07"
+    ],
+    "sources": [
+      {
+        "title": "絵でわかる日本語：べくもない",
+        "url": "https://www.edewakaru.com/archives/19849318.html"
+      }
+    ]
+  },
+  {
+    "id": "judgment-07",
+    "category": "judgment",
+    "pattern": "まじき",
+    "meaning": "不该有的……；不应做的……",
+    "connection": "动词辞书形＋まじき＋名词；する也可作「すまじき」。常用「あるまじき・許すまじき」。",
+    "nuance": "文言色彩很强，通常修饰「行為・態度・発言」等名词，严厉批评有违身份或规范的行为。",
+    "example": "データを都合よく書き換えるのは、研究者にあるまじき行為だ。",
+    "translation": "为了迎合需要而篡改数据，是研究人员绝不该有的行为。",
+    "cue": "まじき＋行为：不该存在",
+    "contrast": "「べきではない」（衔接项）可直接劝告不应做某事；「まじき」常作为名词修饰语，措辞更严厉、更书面。",
+    "related": [
+      "evaluation-01",
+      "evaluation-02"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：まじき",
+        "url": "https://nihongokyoshi-net.com/2019/06/16/jlptn1-grammar-majiki/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-08",
+    "category": "judgment",
+    "pattern": "に足る",
+    "meaning": "足以……；值得……",
+    "connection": "动词辞书形／部分动作名词＋に足る；常接名词，如「信頼に足る人物」",
+    "nuance": "郑重地判断事物达到了某种价值或标准，常搭配「信頼・尊敬・評価」等。也有「に足りる」。",
+    "example": "この調査には、結論を裏付けるに足る十分な資料がそろっている。",
+    "translation": "这项调查备有足以支持结论的充分资料。",
+    "cue": "达到值得的门槛",
+    "contrast": "「に足りない」是其否定方向；不要与表示身份的「たるもの」混淆，后者的「たる」不是「足る」。",
+    "related": [
+      "judgment-09",
+      "evaluation-02"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：に足る",
+        "url": "https://nihongokyoshi-net.com/2019/07/15/jlptn1-grammar-nitaru/"
+      }
+    ]
+  },
+  {
+    "id": "judgment-09",
+    "category": "judgment",
+    "pattern": "に足りない",
+    "meaning": "不值得……；不足以……",
+    "connection": "动词辞书形／部分动作名词＋に足りない／に足らない",
+    "nuance": "表示未达到信任、重视等标准。「取るに足らない」是微不足道，「恐れるに足りない」是不足为惧。",
+    "example": "出所が不明なその数字は、判断の根拠として信頼するに足りない。",
+    "translation": "那个来源不明的数字，不足以作为可信的判断依据。",
+    "cue": "没有达到价值门槛",
+    "contrast": "「に堪えない」常强调让人难以忍受；本项侧重不够值得、不够充分，语气可较冷静。",
+    "related": [
+      "judgment-08",
+      "degree-08"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：に足る／に足りない",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-nitaru/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-01",
+    "category": "emotion",
+    "pattern": "を禁じ得ない",
+    "meaning": "不禁……；无法抑制……",
+    "connection": "表示感情或情感表现的名词＋を禁じ得ない，如「驚き・怒り・涙・笑い」",
+    "nuance": "郑重地描述自然涌现、难以控制的感情。「禁じ得ない」读作「きんじえない」。",
+    "example": "十年前の教え子から届いた手紙を読み、涙を禁じ得なかった。",
+    "translation": "读着十年前教过的学生寄来的信，我不禁流下了眼泪。",
+    "cue": "感情＋禁不住",
+    "contrast": "「ずにはいられない」（衔接项）接动词，适用行为较广；「を禁じ得ない」典型接感情名词，文体更郑重。",
+    "related": [
+      "degree-07",
+      "emotion-04"
+    ],
+    "sources": [
+      {
+        "title": "Bunpro：を禁じ得ない",
+        "url": "https://bunpro.jp/ja/grammar_points/934"
+      }
+    ]
+  },
+  {
+    "id": "emotion-02",
+    "category": "emotion",
+    "pattern": "を余儀なくされる",
+    "meaning": "被迫……；不得不……",
+    "connection": "行为或状态的名词＋を余儀なくされる；基本结构：人／组织は、事情により、名词＋を余儀なくされる",
+    "nuance": "客观条件使人违背意愿采取行动，多用于报道或书面语。主语通常是受到影响的人或组织。",
+    "example": "部品の供給が止まり、工場は一週間の操業停止を余儀なくされた。",
+    "translation": "零件供应中断，工厂被迫停工一周。",
+    "cue": "人被事情逼着做",
+    "contrast": "「を余儀なくさせる」从原因一方来写：部品不足が工場に操業停止を余儀なくさせた。",
+    "related": [
+      "emotion-03",
+      "emotion-05"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：を余儀なくされる",
+        "url": "https://www.nihongokyoshi-net.com/2019/06/15/jlptn1-grammar-woyoginakusareru/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-03",
+    "category": "emotion",
+    "pattern": "を余儀なくさせる",
+    "meaning": "迫使……；使……不得不……",
+    "connection": "原因が＋人／组织に＋行为名词＋を余儀なくさせる",
+    "nuance": "突出导致行动的原因，受影响者用「に」表示。常用于迫使人作出不情愿的改变。",
+    "example": "急な会場の閉鎖が、主催者に開催地の変更を余儀なくさせた。",
+    "translation": "会场突然关闭，迫使主办方更换举办地点。",
+    "cue": "事情逼着人做",
+    "contrast": "「を余儀なくされる」以受影响者为主语；「を余儀なくさせる」以造成影响的事态为主语，注意主语互换。",
+    "related": [
+      "emotion-02"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：を余儀なくさせる",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-woyoginakusaseru/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-04",
+    "category": "emotion",
+    "pattern": "ずにはおかない",
+    "meaning": "必定会……；非要……不可",
+    "connection": "动词ない形去ない＋ずにはおかない；する→せずにはおかない",
+    "nuance": "可表示强烈决心，也可表示某种力量必然引发结果。后一用法常接使役动词，如「感動させずにはおかない」。",
+    "example": "彼女の最後まで諦めない姿は、見る人を勇気づけずにはおかない。",
+    "translation": "她坚持到最后、绝不放弃的身影，必定会鼓舞看到的人。",
+    "cue": "决心强／影响必然",
+    "contrast": "「ずにはすまない」是责任或处境使人不得不做；本项强调决意或某事必然造成的影响。",
+    "related": [
+      "emotion-05",
+      "emotion-06"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：ずにはおかない",
+        "url": "https://nihongokyoshi-net.com/2019/07/17/jlptn1-grammar-zuniwaokanai/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-05",
+    "category": "emotion",
+    "pattern": "ずにはすまない",
+    "meaning": "不……不行；不得不……",
+    "connection": "动词ない形去ない＋ずにはすまない；する→せずにはすまない",
+    "nuance": "责任、常理或现实处境使某行动不可避免，不做便无法交代；也可表示某种后果避不开。",
+    "example": "私の確認不足で迷惑をかけたのだから、直接謝らずにはすまない。",
+    "translation": "是我确认不周给人添了麻烦，必须亲自道歉才行。",
+    "cue": "不做，无法交代",
+    "contrast": "「ずにはいられない」（衔接项）多是心理上忍不住；「ずにはすまない」是责任或情势上的不得不。",
+    "related": [
+      "emotion-04",
+      "emotion-07"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：ずにはすまない／ないではすまない",
+        "url": "https://nihongokyoshi-net.com/2019/07/14/jlptn1-grammar-zuniwasumanai/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-06",
+    "category": "emotion",
+    "pattern": "ないではおかない",
+    "meaning": "一定要……；必然使……",
+    "connection": "动词ない形＋ではおかない；する→しないではおかない",
+    "nuance": "与「ずにはおかない」近义，是较易辨认的现代形式。既能表强烈意志，也能表必然引发的影响。",
+    "example": "この発見は、これまでの常識を変えないではおかないだろう。",
+    "translation": "这一发现，必将改变人们至今为止的常识。",
+    "cue": "ないで＋不罢休",
+    "contrast": "「ないではすまない」强调不做不被允许或无法了结；「ないではおかない」强调必定去做或造成结果。",
+    "related": [
+      "emotion-04",
+      "emotion-07"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：ずにはおかない／ないではおかない",
+        "url": "https://nihongokyoshi-net.com/2019/07/17/jlptn1-grammar-zuniwaokanai/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-07",
+    "category": "emotion",
+    "pattern": "ないではすまない",
+    "meaning": "必须……才行；免不了……",
+    "connection": "动词ない形＋ではすまない；する→しないではすまない",
+    "nuance": "「ずにはすまない」的对应形式。焦点是社会责任、道义或现实后果，而非个人强烈想做。",
+    "example": "借りた資料をなくしてしまった以上、事情を説明しないではすまない。",
+    "translation": "既然把借来的资料弄丢了，就必须说明情况。",
+    "cue": "不做，事情结不了",
+    "contrast": "「ないではいられない」（衔接项）是控制不住冲动；本项强调事情无法就这样不了了之。",
+    "related": [
+      "emotion-05",
+      "emotion-06"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：ずにはすまない／ないではすまない",
+        "url": "https://nihongokyoshi-net.com/2019/07/14/jlptn1-grammar-zuniwasumanai/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-08",
+    "category": "emotion",
+    "pattern": "に忍びない",
+    "meaning": "不忍……；于心不忍……",
+    "connection": "动词辞书形＋に忍びない",
+    "nuance": "因为怜惜、心痛或珍视而无法忍心做，常用「見る・聞く・捨てる・別れる」。带书面色彩。",
+    "example": "祖母が一針ずつ縫ってくれた服は、古くなっても捨てるに忍びない。",
+    "translation": "奶奶一针一线缝给我的衣服，即使旧了也舍不得扔。",
+    "cue": "心会痛，所以不忍",
+    "contrast": "「見るに堪えない」可因低劣、丑恶而看不下去；「見るに忍びない」更突出同情或心痛。",
+    "related": [
+      "degree-08",
+      "emotion-01"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：に忍びない",
+        "url": "https://nihongokyoshi-net.com/2019/09/09/jlptn1-grammar-nishinobinai/"
+      }
+    ]
+  },
+  {
+    "id": "emotion-09",
+    "category": "emotion",
+    "pattern": "て憚らない",
+    "meaning": "毫不顾忌地……；公然……",
+    "connection": "动词て形＋憚らない（はばからない）；常见「言って・公言して・断言して」",
+    "nuance": "描述他人大胆断言或毫不避讳的态度，常含说话人的批评、惊讶或怀疑。「はばからない」中的「は」是词的一部分。",
+    "example": "彼はまだ試作品もないのに、自分の発明が世界を変えると断言して憚らない。",
+    "translation": "他连样品都还没做出来，却毫不顾忌地断言自己的发明会改变世界。",
+    "cue": "不顾忌，照样公言",
+    "contrast": "「てやまない」表达真挚持续的心情；本项突出不顾周围眼光的言行态度。",
+    "related": [
+      "degree-06",
+      "evaluation-09"
+    ],
+    "sources": [
+      {
+        "title": "日本語教師のネタ帳：てはばからない等",
+        "url": "https://nantong-japanese.com/2025/11/05/%E3%80%8C%EF%BD%9E%E3%81%A6%E3%81%AF%E3%81%B0%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E3%80%8D%E3%80%8C%EF%BD%9E%E3%81%AB%E5%BF%8D%E3%81%B3%E3%81%AA%E3%81%84%E3%80%8D%E3%80%8C%EF%BD%9E%E3%81%AB%E6%81%A5/"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-01",
+    "category": "evaluation",
+    "pattern": "ともあろうものが",
+    "meaning": "身为……竟然……",
+    "connection": "表示身份、地位或人物的名词＋ともあろうものが",
+    "nuance": "认为对方拥有相应身份，应有更高标准，却做了不相称的事，常带责备和失望。后面常呼应「とは・なんて」。",
+    "example": "チームの責任者ともあろうものが、連絡もせず会議を欠席するとは。",
+    "translation": "身为团队负责人，竟然连招呼都不打就缺席会议。",
+    "cue": "身份这么高，竟然失格",
+    "contrast": "「たるもの」说明这一身份应当怎样做；本项多对不符合身份的言行表示责备或吃惊。",
+    "related": [
+      "evaluation-02",
+      "evaluation-03",
+      "judgment-07"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：ともあろうものが",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-tomoaroumonoga/"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-02",
+    "category": "evaluation",
+    "pattern": "たるもの",
+    "meaning": "作为……就应当……",
+    "connection": "表示身份、职责的名词＋たるもの（は）",
+    "nuance": "书面、训诫式表达，对特定身份提出应有规范。后项常用「べきだ・なければならない・てはならない」。",
+    "example": "指導者たるもの、失敗の責任を部下だけに押し付けてはならない。",
+    "translation": "作为领导者，不应把失败的责任全推给部下。",
+    "cue": "身份→应有规范",
+    "contrast": "「ともあろうものが」指责已经显露的不相称行为；「たるもの」重在说明应遵守的原则。",
+    "related": [
+      "evaluation-01",
+      "judgment-07",
+      "judgment-08"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：たるもの",
+        "url": "https://nihongokyoshi-net.com/2019/06/18/jlptn1-grammar-tarumono/"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-03",
+    "category": "evaluation",
+    "pattern": "としたことが",
+    "meaning": "一向……的某人竟然……",
+    "connection": "人物名词／人称代词＋としたことが",
+    "nuance": "对某人不符合平时表现的失误感到意外，常用「私としたことが」自责。这里不是一般地说某人做了某件事。",
+    "example": "私としたことが、発表用の資料を家に忘れてきてしまった。",
+    "translation": "我竟然把发表要用的资料忘在家里了。",
+    "cue": "偏偏是平时不该失手的人",
+    "contrast": "「ともあろうものが」更看重社会身份、职责；「としたことが」更看重对具体人物平时表现的认识。",
+    "related": [
+      "evaluation-01",
+      "evaluation-05"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：としたことが",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-toshitakotoga/"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-04",
+    "category": "evaluation",
+    "pattern": "にして",
+    "meaning": "到了……才；在……就；既是……又是……",
+    "connection": "时间、年龄、次数或身份名词＋にして；并列性质时也可用「な形容词词干＋にして」",
+    "nuance": "有多种书面用法：突出达到某阶段才实现，或在很早、很短的阶段就实现；也可并列两种身份、性质，如「作家にして医師」。",
+    "example": "彼女は五十歳にして初めて、自分の名前で本を出版した。",
+    "translation": "她直到五十岁，才第一次以自己的名义出版了书。",
+    "cue": "看后文：才／就／又",
+    "contrast": "「にしては」（N2 衔接）表示与基准相比出乎预期；本项可表示阶段或并列，不能仅凭共有「にして」判断意义。",
+    "related": [
+      "evaluation-05"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師：にして",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-nishite/"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-05",
+    "category": "evaluation",
+    "pattern": "にしては〔N2衔接〕",
+    "meaning": "按……来说，却……",
+    "connection": "动词普通形／名词＋にしては",
+    "nuance": "以已知事实为基准，结果却高于或低于通常预期。用具体基准较自然，如「十歳にしては」，而非「年齢にしては」。",
+    "example": "初めて作ったにしては、この椅子はよくできている。",
+    "translation": "就第一次制作而言，这把椅子做得相当好。",
+    "cue": "基准已知，结果意外",
+    "contrast": "「わりに」（衔接项）可用「年齢のわりに」等较抽象的尺度；「にしては」倾向具体身份、数值或事实。",
+    "related": [
+      "evaluation-04",
+      "evaluation-06"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET：にしては",
+        "url": "https://nihongokyoshi-net.com/2018/11/23/jlptn2-grammar-nishitewa/"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-06",
+    "category": "evaluation",
+    "pattern": "にひきかえ",
+    "meaning": "与……相反；与……形成鲜明对比",
+    "connection": "名词＋にひきかえ；动词／い形容词普通形＋のにひきかえ；な形容词词干＋なのにひきかえ（也可用「であるのにひきかえ」）。",
+    "nuance": "强调两者差异鲜明，常有说话人的评价，如一方好、另一方差。「それにひきかえ」可承接上一句。",
+    "example": "去年の静かな会場にひきかえ、今年は開場前から長い列ができている。",
+    "translation": "与去年冷清的会场形成对比，今年还没开门就已排起长队。",
+    "cue": "两边反差鲜明",
+    "contrast": "「に比べて」（衔接项）可作普通、客观比较；「にひきかえ」更突出强烈反差与评价。",
+    "related": [
+      "evaluation-05",
+      "evaluation-07"
+    ],
+    "sources": [
+      {
+        "title": "Bunpro：にひきかえ",
+        "url": "https://bunpro.jp/ja/grammar_points/%E3%81%AB%E3%81%B2%E3%81%8D%E3%81%8B%E3%81%88"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-07",
+    "category": "evaluation",
+    "pattern": "にもまして",
+    "meaning": "比……更加……",
+    "connection": "名词＋にもまして；常见「以前・去年・いつ・誰・何＋にもまして」",
+    "nuance": "强调程度超过已有基准，常表示原本就强，现在更强。「何にもまして」表示比什么都重要等。",
+    "example": "発表を控えた今日は、いつにもまして入念に準備を確認した。",
+    "translation": "今天即将发表，我比平时更加仔细地确认了准备情况。",
+    "cue": "已有程度，再超过它",
+    "contrast": "「にひきかえ」突出对照或反差；「にもまして」沿同一尺度强调更高程度。",
+    "related": [
+      "evaluation-06",
+      "evaluation-08"
+    ],
+    "sources": [
+      {
+        "title": "Bunpro：にもまして",
+        "url": "https://bunpro.jp/ja/grammar_points/863"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-08",
+    "category": "evaluation",
+    "pattern": "と相まって",
+    "meaning": "与……相互作用；加上……更加……",
+    "connection": "名词＋と相まって；也可用「名词Aと名词Bが相まって」",
+    "nuance": "两种因素结合，产生或增强某种效果，常用于书面说明。结果既可以好，也可以坏，不只是简单列举。",
+    "example": "落ち着いた照明が静かな音楽と相まって、店内に心地よい雰囲気を生んでいる。",
+    "translation": "柔和的灯光与安静的音乐相得益彰，营造出舒适的店内氛围。",
+    "cue": "两种因素，共同增效",
+    "contrast": "「に加えて」（衔接项）主要是添加因素；「と相まって」强调因素之间共同产生的效果。",
+    "related": [
+      "evaluation-07"
+    ],
+    "sources": [
+      {
+        "title": "Bunpro：相まって",
+        "url": "https://bunpro.jp/ja/grammar_points/853"
+      }
+    ]
+  },
+  {
+    "id": "evaluation-09",
+    "category": "evaluation",
+    "pattern": "をよそに",
+    "meaning": "不顾……；对……毫不在意",
+    "connection": "名词＋をよそに；句子名词化后也可用「～のをよそに」",
+    "nuance": "常从旁观立场描述他人不在意周围的担心、反对或状况，多含批评；不宜机械用于自己的决心宣言。",
+    "example": "周囲の心配をよそに、彼は何事もなかったように旅を続けた。",
+    "translation": "他不顾周围人的担心，像什么都没发生一样继续旅行。",
+    "cue": "把周围的事放到一边",
+    "contrast": "「をものともせず」强调克服困难、毫不畏惧，常含赞许；「をよそに」强调对周围漠不关心。",
+    "related": [
+      "emotion-09",
+      "evaluation-01"
+    ],
+    "sources": [
+      {
+        "title": "Bunpro：をよそに",
+        "url": "https://bunpro.jp/ja/grammar_points/%E3%82%92%E3%82%88%E3%81%9D%E3%81%AB"
+      }
+    ]
+  }
+]

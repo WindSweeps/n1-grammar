@@ -1,0 +1,780 @@
+[
+  {
+    "id": "time-01",
+    "category": "time",
+    "pattern": "が早いか",
+    "meaning": "刚一……就……；几乎同时",
+    "connection": "动词辞书形／た形＋が早いか",
+    "nuance": "强调前后动作间隔极短，多用于叙述已发生的具体事件。后项通常不接命令、请求或说话者的计划。",
+    "example": "扉が開くが早いか、猫は庭へ飛び出した。",
+    "translation": "门刚一打开，猫就冲进了院子。",
+    "cue": "快到分不出先后",
+    "contrast": "「や否や」意思近似；「なり」通常描写同一主体接连做出动作。",
+    "related": [
+      "time-02",
+      "time-03"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜が早いか",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-gahayaika/"
+      }
+    ]
+  },
+  {
+    "id": "time-02",
+    "category": "time",
+    "pattern": "や否や",
+    "meaning": "一……立刻就……",
+    "connection": "动词辞书形＋や否や（やいなや）；也可用「や」",
+    "nuance": "书面叙事中强调紧接发生，后项有时带出乎意料的反应。这里的「否」不表示后项被否定。",
+    "example": "結果が発表されるや否や、会場から大きな拍手が起こった。",
+    "translation": "结果一公布，会场里就响起了热烈的掌声。",
+    "cue": "还没来得及说“否”",
+    "contrast": "与「が早いか」相近；「次第」常用于安排后续行动，本句型通常叙述事实。",
+    "related": [
+      "time-01",
+      "time-03"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜や否や／や",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-yainaya/"
+      }
+    ]
+  },
+  {
+    "id": "time-03",
+    "category": "time",
+    "pattern": "なり（直後）",
+    "meaning": "刚……就立即……",
+    "connection": "动词辞书形＋なり",
+    "nuance": "通常是同一主体刚完成前一动作，马上做出后一动作，常带突然感。不要与「た形＋なり」（一直保持某状态）混淆。",
+    "example": "彼は封筒を開けるなり、手紙を声に出して読み始めた。",
+    "translation": "他刚打开信封，就开始把信大声读出来。",
+    "cue": "同一个人，接着行动",
+    "contrast": "「たとたん」可接主体不同的意外事件；这里的「なり」重点是连续行为。",
+    "related": [
+      "time-01",
+      "time-02"
+    ],
+    "sources": [
+      {
+        "title": "Mikke!｜なり・たとたん的区别",
+        "url": "https://edujapa.com/mikke/level/3/nari_totan/"
+      },
+      {
+        "title": "J-nihongo｜なり（直後）",
+        "url": "https://j-nihongo.com/nari/"
+      }
+    ]
+  },
+  {
+    "id": "time-04",
+    "category": "time",
+    "pattern": "そばから",
+    "meaning": "刚……就又……；一边……一边又……",
+    "connection": "动词辞书形／た形＋そばから",
+    "nuance": "常用于刚做完就出现使努力落空的结果，并可暗示同样的事反复发生。常带无奈、不满的语气。",
+    "example": "私が片づけるそばから、子どもたちは別のおもちゃを床に広げてしまう。",
+    "translation": "我刚收拾好，孩子们就又把别的玩具摊到地板上。",
+    "cue": "刚做完，又白做",
+    "contrast": "「が早いか」只强调速度；「そばから」常突出反复及前功尽弃。",
+    "related": [
+      "time-01"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜そばから",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-sobakara/"
+      }
+    ]
+  },
+  {
+    "id": "time-05",
+    "category": "time",
+    "pattern": "てからというもの",
+    "meaning": "自从……以后，一直……",
+    "connection": "动词て形＋からというもの",
+    "nuance": "把某事看作显著转折点，强调之后持续的变化或状态。比普通「てから」更强调前后的不同。",
+    "example": "朝の散歩を始めてからというもの、毎晩よく眠れるようになった。",
+    "translation": "自从开始晨间散步以后，每晚都能睡得很好了。",
+    "cue": "转折点之后，持续改变",
+    "contrast": "「てから」可只说先后顺序；本句型须有此后持续的影响。",
+    "related": [],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜てからというもの",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-tekaratoiumono/"
+      }
+    ]
+  },
+  {
+    "id": "time-06",
+    "category": "time",
+    "pattern": "を皮切りに",
+    "meaning": "以……为开端，陆续……",
+    "connection": "名词＋を皮切りに（して）／を皮切りとして；动词辞书形／た形＋のを皮切りに",
+    "nuance": "指一个事件开启一系列同类活动或发展，多见于演出、事业、活动等。后项要体现陆续展开，不能仅是无关的单一变化。",
+    "example": "京都での展示会を皮切りに、全国六都市で作品を紹介する予定だ。",
+    "translation": "计划以京都的展览为开端，在全国六座城市介绍这些作品。",
+    "cue": "第一站，带出一连串",
+    "contrast": "「をきっかけに」只要求有契机；本句型突出后续同类事件接连展开。",
+    "related": [
+      "time-05",
+      "time-07"
+    ],
+    "sources": [
+      {
+        "title": "日本語教師のまる得｜を皮切りに",
+        "url": "https://blognihongo.com/n1/grammar_wokawakirini/"
+      }
+    ]
+  },
+  {
+    "id": "time-07",
+    "category": "time",
+    "pattern": "を限りに",
+    "meaning": "以……为最后期限；到……为止结束",
+    "connection": "表示时间或最后一次活动的名词＋を限りに",
+    "nuance": "将某时点划为终点，后面通常说停止、结束或告别。这里学习终止用法，不等同于「声を限りに」的“尽量”。",
+    "example": "この公演を限りに、彼女は舞台活動を休止する。",
+    "translation": "这场演出之后，她将暂停舞台活动。",
+    "cue": "画一条结束线",
+    "contrast": "「を皮切りに」是开始；「を限りに」是结束。",
+    "related": [
+      "time-06"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜を限りに／限りで",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-wokagirini/"
+      }
+    ]
+  },
+  {
+    "id": "time-08",
+    "category": "time",
+    "pattern": "に至って",
+    "meaning": "到了……阶段，才……",
+    "connection": "名词／动词辞书形＋に至って",
+    "nuance": "强调发展到某一阶段后才发生后项，常与「初めて・ようやく」呼应。语气较正式，有时含“到这时才”的迟滞感。",
+    "example": "計画が中止されるに至って、ようやく問題の深刻さに気づいた。",
+    "translation": "直到计划被取消，才终于意识到问题的严重性。",
+    "cue": "到这个地步才",
+    "contrast": "「に至る」说达到某结果；「に至って」把那个阶段作为后项出现的节点。",
+    "related": [
+      "time-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜に至って／に至り",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-niitatte/"
+      }
+    ]
+  },
+  {
+    "id": "time-09",
+    "category": "time",
+    "pattern": "に至るまで",
+    "meaning": "一直到……；甚至细到……",
+    "connection": "名词／动词辞书形＋に至るまで；常用「AからBに至るまで」",
+    "nuance": "既可强调时间或过程的终点，也可强调某范围内无一遗漏。用于「AからBに至るまで」的范围义时，常把细小或极端的一项放在 B 的位置。",
+    "example": "この報告書には、企画の背景から細かな費用に至るまで記されている。",
+    "translation": "这份报告从策划背景到细小的费用都写得很清楚。",
+    "cue": "一路覆盖到末端",
+    "contrast": "「まで」一般指出终点；「に至るまで」更强调范围完整，或竟然连这一项也包括。",
+    "related": [
+      "time-08"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜に至るまで",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-niitarumade/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-01",
+    "category": "conditions",
+    "pattern": "とあれば",
+    "meaning": "如果是……；既然情况如此",
+    "connection": "动词／い形容词普通形＋とあれば；名词／な形容词词干＋とあれば",
+    "nuance": "把前项作为特殊而有分量的条件，后项常表达全力应对、愿意做或不得不做。比「なら」更有态度和决心。",
+    "example": "仲間のためとあれば、できる限りのことをしたい。",
+    "translation": "如果是为了伙伴，我愿尽我所能。",
+    "cue": "既然是这种情况，就……",
+    "contrast": "「とあって」说明原因及其结果；「とあれば」更偏条件下的意愿或判断。",
+    "related": [
+      "cause-03",
+      "cause-04"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜とあれば",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-toareba/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-02",
+    "category": "conditions",
+    "pattern": "ともなると／ともなれば",
+    "meaning": "一到……阶段，就会……",
+    "connection": "名词／动词辞书形＋ともなると／ともなれば",
+    "nuance": "强调达到某种年龄、身份、时期或重要情境后，自然出现相应变化。不是一般的偶然条件。",
+    "example": "一人で店を経営するともなると、料理以外の知識も必要になる。",
+    "translation": "一旦要独自经营店铺，就还需要烹饪以外的知识。",
+    "cue": "到了这个份上，要求也不同",
+    "contrast": "普通「となると」范围较广；「ともなると」更强调该阶段或情境的分量。",
+    "related": [
+      "conditions-01"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜ともなると／ともなれば",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-tomonaruto/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-03",
+    "category": "conditions",
+    "pattern": "なくしては",
+    "meaning": "没有……就不能……",
+    "connection": "名词＋なくしては；动词辞书形＋ことなくしては；后接否定或不可能表达",
+    "nuance": "强调前项是不可缺少的条件，语气正式。「は」可以省略，但完整学习时宜把否定后项一起记。",
+    "example": "現場の協力なくしては、この仕組みは改善できない。",
+    "translation": "没有一线人员的协助，就无法改进这套机制。",
+    "cue": "缺少前提，结果不成立",
+    "contrast": "与「なしには」意义接近，通常更郑重；「あっての」从肯定面表达不可或缺。",
+    "related": [
+      "conditions-04",
+      "conditions-05"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜なくして／なくしては",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-nakushite/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-04",
+    "category": "conditions",
+    "pattern": "なしには",
+    "meaning": "没有……就无法……",
+    "connection": "名词＋なしには＋否定或不可能表达；动作可先用「こと」名词化",
+    "nuance": "强调缺少前项时后项难以成立。教材级别存在差异，常作为 N2—N1 衔接语法复习。",
+    "example": "十分な練習なしには、安定した演奏はできない。",
+    "translation": "没有充分的练习，就无法稳定地演奏。",
+    "cue": "把“没有”和“不能”配对",
+    "contrast": "「なしに」还可表示“没做A就做B”；「なしには〜ない」重点是必要条件。",
+    "related": [
+      "conditions-03",
+      "conditions-05"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜なしでは〜ない／なしには〜ない",
+        "url": "https://mainichi-nonbiri.com/grammar/n2-nashidehanai/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-05",
+    "category": "conditions",
+    "pattern": "あっての",
+    "meaning": "正因为有……，才有……",
+    "connection": "名词A＋あっての＋名词B；「名词（が）あってのことだ」也常见",
+    "nuance": "从肯定面强调 A 是 B 存在或成立的重要基础，常含感谢或重视之意。不能机械地替代所有因果句。",
+    "example": "地域の支えあっての祭りだと、実行委員長は語った。",
+    "translation": "执行委员会主席说，正因为有当地人的支持，才有这个庆典。",
+    "cue": "先有A，才有B",
+    "contrast": "「なくしては」用否定说明少不了 A；「あっての」直接肯定 A 的基础作用。",
+    "related": [
+      "conditions-03",
+      "conditions-04"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜あっての",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-atteno/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-06",
+    "category": "conditions",
+    "pattern": "いかんで／いかんだ",
+    "meaning": "取决于……如何",
+    "connection": "名词（の）＋いかんで；名词＋いかんだ（句末）；也有「いかんでは」",
+    "nuance": "「いかん」读作「如何（いかん）」，指内容、程度或情况。用于正式说明条件如何影响结论。",
+    "example": "大会を開くかどうかは、会場の安全確認の結果いかんだ。",
+    "translation": "是否举办大会，取决于场地安全检查的结果。",
+    "cue": "看前项如何，后项再定",
+    "contrast": "「いかんで」随条件改变；「いかんにかかわらず」不受条件影响，方向相反。",
+    "related": [
+      "conditions-07",
+      "conditions-08",
+      "conditions-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜いかんで／いかんでは",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-ikande/"
+      },
+      {
+        "title": "毎日のんびり日本語教師｜いかんだ",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-ikannikakatteiru/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-07",
+    "category": "conditions",
+    "pattern": "いかんにかかわらず",
+    "meaning": "无论……如何，都……",
+    "connection": "名词（の）＋いかんにかかわらず",
+    "nuance": "用于正式通知、规则等，强调不因前项内容或结果而改变处理方式。注意「かかわらず」前的助词是「に」。",
+    "example": "理由のいかんにかかわらず、作品は締め切りまでに提出してください。",
+    "translation": "无论什么理由，都请在截止时间前提交作品。",
+    "cue": "条件怎样，结论不变",
+    "contrast": "与「いかんで」相反；「いかんによらず」「いかんを問わず」在这层意义上大体相近。",
+    "related": [
+      "conditions-06",
+      "conditions-08",
+      "conditions-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜いかんにかかわらず等",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-ikannikakawarazu/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-08",
+    "category": "conditions",
+    "pattern": "いかんによらず",
+    "meaning": "不取决于……；不论……如何",
+    "connection": "名词（の）＋いかんによらず",
+    "nuance": "表示前项不能左右后项，多用于书面、正式说明。重点在“不以它作为决定因素”。",
+    "example": "審査の結果いかんによらず、提出した資料は返却されません。",
+    "translation": "无论评审结果如何，提交的资料都不予退还。",
+    "cue": "结果不靠前项决定",
+    "contrast": "与「いかんにかかわらず」大体同义；「いかんで」则是根据前项决定。",
+    "related": [
+      "conditions-06",
+      "conditions-07",
+      "conditions-09"
+    ],
+    "sources": [
+      {
+        "title": "日本語教師のN1et｜いかんにかかわらず・いかんによらず",
+        "url": "https://jn1et.com/ikannnikakawarazu-ikannniyorazu/"
+      }
+    ]
+  },
+  {
+    "id": "conditions-09",
+    "category": "conditions",
+    "pattern": "いかんを問わず",
+    "meaning": "不问……如何；不论……",
+    "connection": "名词（の）＋いかんを問わず",
+    "nuance": "表示不把前项的种类、情况或程度作为限制条件，常见于规则和资格说明。与另两种「いかん」表达不同，这里用「を」。",
+    "example": "経験のいかんを問わず、学ぶ意欲のある方を歓迎します。",
+    "translation": "无论经验如何，都欢迎有学习意愿的人参加。",
+    "cue": "不问前项，一律适用",
+    "contrast": "「を問わず」本身就可表不限于某条件；加「いかん」后更强调其具体情况并使文体更正式。",
+    "related": [
+      "conditions-07",
+      "conditions-08"
+    ],
+    "sources": [
+      {
+        "title": "Mikke!｜いかんに関わらず・いかんによらず・いかんを問わず",
+        "url": "https://edujapa.com/mikke/level/5/ikannikakawarazu/"
+      }
+    ]
+  },
+  {
+    "id": "concession-01",
+    "category": "concession",
+    "pattern": "ようが／ようと",
+    "meaning": "无论……；即使……也……",
+    "connection": "动词意向形＋が／と；い形容词词干＋かろうが／かろうと；名词／な形容词词干＋であろうが／であろうと",
+    "nuance": "这里的意向形用于假定让步，不表示“打算做”。后项表示前项再怎样也不受影响的意志、判断或事实。",
+    "example": "周りが何と言おうと、私はこの研究を続ける。",
+    "translation": "无论周围的人怎么说，我都会继续这项研究。",
+    "cue": "把条件让出去，结论守住",
+    "contrast": "比一般「ても」语气更强；「ようと〜まいと」把做与不做两面都列出。",
+    "related": [
+      "concession-02",
+      "concession-03"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜ようが／ようと",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-youga/"
+      }
+    ]
+  },
+  {
+    "id": "concession-02",
+    "category": "concession",
+    "pattern": "ようと〜まいと",
+    "meaning": "无论做不做……都……",
+    "connection": "同一动词：意向形＋と＋否定推量形「まい」＋と；也用「ようが〜まいが」。五段用辞书形＋まい；一段可用去る＋まい；する→しまい／するまい",
+    "nuance": "列出互相对立的两种情况，表明后项不变。常见「行こうと行くまいと」「参加しようと参加しまいと」。",
+    "example": "説明を聞こうと聞くまいと、提出の期限は変わらない。",
+    "translation": "无论听不听说明，提交期限都不会改变。",
+    "cue": "做与不做，结果相同",
+    "contrast": "「ようと」单独让步；本句型必须保持前后同一动词，用正反两面覆盖全部情况。",
+    "related": [
+      "concession-01"
+    ],
+    "sources": [
+      {
+        "title": "絵でわかる日本語｜ようが〜まいが・ようと〜まいと",
+        "url": "https://www.edewakaru.com/archives/27365752.html"
+      }
+    ]
+  },
+  {
+    "id": "concession-03",
+    "category": "concession",
+    "pattern": "であれ",
+    "meaning": "即使是……；无论是……",
+    "connection": "名词＋であれ；常用「AであれBであれ」或「どんな＋名词＋であれ」",
+    "nuance": "书面语中让出身份、条件等，随后说明共通的原则。此处不是表示命令或愿望的「幸せであれ」。",
+    "example": "どんな立場であれ、相手の話を最後まで聞くことは大切だ。",
+    "translation": "无论处于什么立场，听对方把话说完都很重要。",
+    "cue": "身份可以变，原则不变",
+    "contrast": "「であれ〜であれ」可列两个名词；动词条件通常用「ようが／ようと」。",
+    "related": [
+      "concession-01"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜であれ",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-deare/"
+      }
+    ]
+  },
+  {
+    "id": "concession-04",
+    "category": "concession",
+    "pattern": "たところで",
+    "meaning": "即使……也无济于事／不过如此",
+    "connection": "动词た形＋ところで",
+    "nuance": "此处是假定让步，た形不表示事情已发生。后项常是否定判断或有限的效果，不宜把它当作普通的积极条件。",
+    "example": "今から人数を増やしたところで、今日中に作業を終えるのは難しい。",
+    "translation": "即使现在增加人手，也很难在今天之内完成工作。",
+    "cue": "就算做了，效果也有限",
+    "contrast": "「たところ」可说做了之后发现的实际结果；「たところで」在本用法中是假设做了也没多大用。",
+    "related": [
+      "concession-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜たところで",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-tatokorode/"
+      }
+    ]
+  },
+  {
+    "id": "concession-05",
+    "category": "concession",
+    "pattern": "といえども",
+    "meaning": "即便是……也……；虽说……",
+    "connection": "名词／普通形＋といえども；名词、な形容词现在肯定常省略「だ」",
+    "nuance": "非常正式、偏书面，常举出看似特殊的情况，强调它也不能成为例外。常与「たとえ・いかに」呼应。",
+    "example": "専門家といえども、すべての質問に即答できるわけではない。",
+    "translation": "即便是专家，也并非能立即回答所有问题。",
+    "cue": "连这个特例也不例外",
+    "contrast": "「とはいえ」常先承认事实再作补充限制；「といえども」更有“即便如此也不能例外”的语气。",
+    "related": [
+      "concession-06",
+      "concession-09"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜とは言え／と言えども等",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-toittemo/"
+      }
+    ]
+  },
+  {
+    "id": "concession-06",
+    "category": "concession",
+    "pattern": "とはいえ",
+    "meaning": "虽说……，不过……",
+    "connection": "普通形＋とはいえ；名词／な形容词词干也可直接接；可放句首作「とはいえ、」",
+    "nuance": "先承认前项事实，再对可能产生的过高判断加以限制。书面和较正式的说明中常见。",
+    "example": "資料がそろったとはいえ、内容の確認にはまだ時間がかかる。",
+    "translation": "虽说资料已经收齐，但核实内容仍需要时间。",
+    "cue": "先承认，再补一句",
+    "contrast": "「といえども」更突出不允许特殊例外；「とはいえ」常用于修正前项给人的印象。",
+    "related": [
+      "concession-05"
+    ],
+    "sources": [
+      {
+        "title": "MLC 日本語学校｜とはいえ",
+        "url": "https://www.mlcjapanese.co.jp/n1_04_08.html"
+      }
+    ]
+  },
+  {
+    "id": "concession-07",
+    "category": "concession",
+    "pattern": "ながらも",
+    "meaning": "虽然……却……",
+    "connection": "动词ます形去ます＋ながらも；い形容词原形＋ながらも；名词／な形容词词干＋（であり）ながらも",
+    "nuance": "表示同一对象同时具有相反的情况或性质，不是“一边……一边……”的并行动作。常作为 N2 等级学习，本图保留作 N1 逆接辨析。",
+    "example": "彼女は不安を感じながらも、落ち着いて発表を続けた。",
+    "translation": "她虽然感到不安，却仍镇定地继续发表。",
+    "cue": "两种矛盾状态并存",
+    "contrast": "「Vます形＋ながら」也可表示同时做两事；「ながらも」通常明确让步、逆接。",
+    "related": [
+      "concession-06"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜ながら／ながらも",
+        "url": "https://mainichi-nonbiri.com/grammar/n3-nagara/"
+      }
+    ]
+  },
+  {
+    "id": "concession-08",
+    "category": "concession",
+    "pattern": "ものを",
+    "meaning": "本来……却……；要是……就好了",
+    "connection": "动词／い形容词普通形＋ものを；な形容词＋な／である＋ものを；常用「〜ばよかったものを」「〜ばいいものを」",
+    "nuance": "带遗憾、不满或责备，常说本有更好的办法却没有采取。后项也可省略，让不满留在言外。",
+    "example": "早めに相談してくれれば助けられたものを、一人で抱え込んでしまったんだね。",
+    "translation": "你要是早点来商量，我本可以帮上忙，你却一个人把事情全扛了下来。",
+    "cue": "明明本可以，偏偏没有",
+    "contrast": "「ものの」较客观地说明前后不一致；「ものを」明显带说话者的遗憾或责备。",
+    "related": [
+      "concession-06"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜ものを",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-monowo/"
+      }
+    ]
+  },
+  {
+    "id": "concession-09",
+    "category": "concession",
+    "pattern": "にしたところで",
+    "meaning": "即使是……也一样；就……而言也……",
+    "connection": "名词＋にしたところで；口语可用「にしたって」",
+    "nuance": "举出某个人或事物，说明它也不能例外，常表示能力有限或结果不会改善。不要把名词接续直接套到任意动词上。",
+    "example": "経験豊かな指導者にしたところで、選手の気持ちをすべて理解できるわけではない。",
+    "translation": "即使是经验丰富的指导者，也不可能完全理解运动员的心情。",
+    "cue": "换成这个人，也一样",
+    "contrast": "「たところで」假设做某动作也无益；「名词＋にしたところで」把某人或事物拿来作让步例子。",
+    "related": [
+      "concession-04",
+      "concession-05"
+    ],
+    "sources": [
+      {
+        "title": "Bunpro｜にしたところで",
+        "url": "https://bunpro.jp/ja/grammar_points/878"
+      }
+    ]
+  },
+  {
+    "id": "cause-01",
+    "category": "cause",
+    "pattern": "ばこそ",
+    "meaning": "正因为……才……",
+    "connection": "动词ば形＋こそ；い形容词词干＋ければこそ；名词／な形容词词干＋であればこそ",
+    "nuance": "用条件形强调实际的原因、动机或必要基础，常解释表面上难以理解的行为。这里不是单纯的“如果”。",
+    "example": "相手の成長を願えばこそ、あえて厳しい意見を伝えた。",
+    "translation": "正因为希望对方成长，才特意提出了严格的意见。",
+    "cue": "ば的外形，からこそ的意思",
+    "contrast": "「からこそ」使用更广；「ばこそ」偏郑重，常强调深层原因或动机。",
+    "related": [
+      "conditions-05"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜ばこそ",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-bakoso/"
+      }
+    ]
+  },
+  {
+    "id": "cause-02",
+    "category": "cause",
+    "pattern": "ゆえに",
+    "meaning": "由于……；因为……的缘故",
+    "connection": "动词／い形容词普通形＋ゆえに；名词＋（の）ゆえに；名词／な形容词＋であるゆえに",
+    "nuance": "来自文语，语气较正式，适合论述原因。修饰名词时可用「ゆえの」，也有「がゆえに」。",
+    "example": "彼は責任感が強いゆえに、仕事を一人で引き受けがちだ。",
+    "translation": "他由于责任心强，往往会独自承担工作。",
+    "cue": "正式书面版“因为”",
+    "contrast": "「せいで」通常责怪不好的原因；「ゆえに」本身不限定好坏，重点在书面语体。",
+    "related": [
+      "cause-07"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜故に／が故／故だ",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-yueni/"
+      }
+    ]
+  },
+  {
+    "id": "cause-03",
+    "category": "cause",
+    "pattern": "とあって",
+    "meaning": "由于……这一特殊情况",
+    "connection": "普通形＋とあって；名词／な形容词现在肯定的「だ」常省略",
+    "nuance": "以前项特殊背景解释后项现象，常见于新闻或客观描述。后项通常叙述情况，而非直接提出命令。",
+    "example": "人気作家が来店するとあって、書店には朝から長い列ができていた。",
+    "translation": "因为有知名作家到店，书店从早上起就排起了长队。",
+    "cue": "特殊背景，带来特别现象",
+    "contrast": "「とあれば」偏条件与意愿；「とあって」侧重说明现象产生的原因。",
+    "related": [
+      "conditions-01",
+      "cause-04"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜とあって",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-toatte/"
+      }
+    ]
+  },
+  {
+    "id": "cause-04",
+    "category": "cause",
+    "pattern": "とあっては",
+    "meaning": "既然是……，就不得不……",
+    "connection": "普通形＋とあっては；名词／な形容词现在肯定常省略「だ」",
+    "nuance": "把特殊情况作为必须认真应对的前提，后项常有不能拒绝、不能放置不管等判断。可用于已知条件，也可用于设想的条件。",
+    "example": "全員の予定が変わるとあっては、もう一度日程を調整しなければならない。",
+    "translation": "既然所有人的安排都会改变，就必须重新协调日程。",
+    "cue": "这种情况一成立，就必须应对",
+    "contrast": "「とあって」描述自然出现的现象；「とあっては」更突出人在该条件下的必要反应。",
+    "related": [
+      "cause-03",
+      "conditions-01"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜とあっては",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-toatteha/"
+      }
+    ]
+  },
+  {
+    "id": "cause-05",
+    "category": "cause",
+    "pattern": "ではあるまいし",
+    "meaning": "又不是……，何必／应该……",
+    "connection": "名词＋ではあるまいし；动词辞书形／た形＋の／ん／わけ＋ではあるまいし",
+    "nuance": "否定某种身份或情境，以此提出判断、劝告或批评。语气可能显得责备，不宜随意对上级使用；口语常说「じゃあるまいし」。",
+    "example": "試験ではあるまいし、答えを急ぐ必要はないよ。",
+    "translation": "又不是考试，没必要急着回答。",
+    "cue": "又不是A，何必那样",
+    "contrast": "普通「ではないから」语气较中性；「ではあるまいし」常含“你不该如此”的态度。",
+    "related": [],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜ではあるまいし",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-dehaarumaishi/"
+      }
+    ]
+  },
+  {
+    "id": "cause-06",
+    "category": "cause",
+    "pattern": "手前",
+    "meaning": "由于顾及……，只好／不能……",
+    "connection": "动词普通形＋手前（てまえ）；名词＋の＋手前",
+    "nuance": "因为自己先前的言行、身份或他人在场，必须顾及体面和责任。不是一般的自然原因；也不同于空间上的“前面”。",
+    "example": "自分で必ず参加すると言った手前、今さら断ることはできない。",
+    "translation": "既然自己说过一定参加，如今就不好再拒绝。",
+    "cue": "话已出口，要顾体面",
+    "contrast": "「以上は／からには」可广泛表既然如此就应当；「手前」特别涉及对外的面子与立场。",
+    "related": [
+      "cause-04"
+    ],
+    "sources": [
+      {
+        "title": "日本語NET｜手前（てまえ）",
+        "url": "https://nihongokyoshi-net.com/2019/06/23/jlptn1-grammar-temae/"
+      }
+    ]
+  },
+  {
+    "id": "cause-07",
+    "category": "cause",
+    "pattern": "こととて",
+    "meaning": "因为……；由于……，还请谅解",
+    "connection": "名词＋の＋こととて；な形容词＋な＋こととて；动词／い形容词连体形式＋こととて。常见「知らぬこととて」「急なこととて」",
+    "nuance": "古雅而郑重的原因表达，常用于说明不得已的背景并请求理解。现代日常对话中通常改用「ので・ものですから」。",
+    "example": "不慣れなこととて、説明に時間がかかり申し訳ありません。",
+    "translation": "由于还不熟练，说明花了较长时间，非常抱歉。",
+    "cue": "郑重交代缘由，请求谅解",
+    "contrast": "「ゆえに」可一般性论述原因；「こととて」更常出现在致歉、辩解或请求宽恕的场景。",
+    "related": [
+      "cause-02"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜こととて",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-kototote/"
+      }
+    ]
+  },
+  {
+    "id": "cause-08",
+    "category": "cause",
+    "pattern": "こともあって",
+    "meaning": "也因为……；加上……的缘故",
+    "connection": "动词／い形容词普通形＋こともあって；な形容词＋な／である＋こともあって；名词＋という／である＋こともあって",
+    "nuance": "把前项作为多个原因中的一个，暗示还有其他因素。不要把「も」忽略成唯一原因。",
+    "example": "駅から近いこともあって、その図書館はいつも利用者が多い。",
+    "translation": "也因为离车站近，那家图书馆总有很多使用者。",
+    "cue": "原因之一，还有别的",
+    "contrast": "「ことから」可明确指出根据或原因；「こともあって」特别强调只是原因之一。",
+    "related": [
+      "cause-03"
+    ],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜こともあって",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-kotomoatte/"
+      }
+    ]
+  },
+  {
+    "id": "cause-09",
+    "category": "cause",
+    "pattern": "始末だ",
+    "meaning": "结果竟然……；到了……的地步",
+    "connection": "动词辞书形／ない形＋始末だ（しまつだ）；「この／その始末だ」也常见",
+    "nuance": "描述一连串不理想的发展最后落得坏结果，常含失望、批评或无奈。不是中性的结果表达。",
+    "example": "連絡を何度も忘れたうえに、最後には約束そのものを忘れる始末だった。",
+    "translation": "他不仅多次忘记联系，最后竟连约定本身也忘记了。",
+    "cue": "坏事发展到最后的样子",
+    "contrast": "「結果」可接好坏两种结果；「始末だ」通常是不好的结局。「あげく」常与其连用。",
+    "related": [],
+    "sources": [
+      {
+        "title": "毎日のんびり日本語教師｜始末だ",
+        "url": "https://mainichi-nonbiri.com/grammar/n1-shimatsuda/"
+      }
+    ]
+  }
+]

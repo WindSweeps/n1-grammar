@@ -1,5 +1,6 @@
 """Build a self-contained offline HTML grammar atlas using only the standard library."""
 import json
+import re
 from pathlib import Path
 
 root = Path(__file__).resolve().parent
@@ -10,8 +11,28 @@ required = ('id', 'category', 'pattern', 'meaning', 'connection', 'nuance', 'exa
 assert len(entries) == 108, f'Expected 108 entries, got {len(entries)}'
 assert len({entry['id'] for entry in entries}) == len(entries), 'Duplicate IDs'
 ids = {entry['id'] for entry in entries}
+annotations = {}
+for filename in ('readings-a.json', 'readings-b.json', 'readings-c.json'):
+    part = json.loads((root / 'data' / filename).read_text())
+    assert not annotations.keys() & part.keys(), f'Duplicate annotation IDs in {filename}'
+    annotations.update(part)
+assert annotations.keys() == ids, 'Every grammar entry must have checked readings'
+ruby = re.compile(r'\[([^\[\]|]+)\|([ぁ-ゖー]+)\]')
+kanji = re.compile(r'[㐀-䶿一-鿿々〆ヵヶ]')
+def normalize_pattern(value):
+    return value.replace('〔N2衔接〕', '').replace('（N2衔接）', '').replace('（标注N2衔接）', '')
+
 for entry in entries:
-    entry['pattern'] = entry['pattern'].replace('〔N2衔接〕', '').replace('（N2衔接）', '').replace('（标注N2衔接）', '')
+    fields = annotations[entry['id']]
+    assert 'example' in fields and 'pattern' in fields, entry['id']
+    for field, annotated in fields.items():
+        assert field in required[:10] and field not in ('id', 'category', 'translation'), (entry['id'], field)
+        assert ruby.sub(lambda match: match[1], annotated) == entry[field], (entry['id'], field, 'Annotation changed source')
+        assert not re.search(r'[\[\]|]', ruby.sub('', annotated)), (entry['id'], field, 'Malformed reading')
+    assert not kanji.search(ruby.sub('', fields['example'])), (entry['id'], 'Missing example reading')
+    fields['pattern'] = normalize_pattern(fields['pattern'])
+    entry['pattern'] = normalize_pattern(entry['pattern'])
+    entry['furigana'] = fields
     assert all(key in entry for key in required), entry['id']
     assert all(entry[key] for key in required[:10]), entry['id']
     assert all(key in ids for key in entry['related']), entry['id']
